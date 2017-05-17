@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "亚特兰蒂斯"
+theme = "hugo-uno"
+
+[Params]
+    description = "洛鸣的心灵世界！"
