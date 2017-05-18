@@ -2,6 +2,10 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "亚特兰蒂斯"
 theme = "hugo-uno"
+Summary = "Cons"
+[taxonomies]
+
 
 [Params]
-    description = "洛鸣的心灵世界！"
+    description = "欢迎来到洛鸣的心灵世界！"
+    author = "Differlong"

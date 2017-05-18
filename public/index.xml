@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>亚特兰蒂斯 on 亚特兰蒂斯 </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://example.org/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Wed, 17 May 2017 15:06:37 CST</updated>
+    
+    <item>
+      <title>second</title>
+      <link>http://example.org/office/second/</link>
+      <pubDate>Wed, 17 May 2017 15:06:37 CST</pubDate>
+      
+      <guid>http://example.org/office/second/</guid>
+      <description>&lt;p&gt;hahahahahha&lt;/p&gt;
+
+&lt;p&gt;ddkjhjkdfhlda&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>second</title>
+      <link>http://example.org/post/second/</link>
+      <pubDate>Wed, 17 May 2017 15:06:22 CST</pubDate>
+      
+      <guid>http://example.org/post/second/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>http://example.org/post/first/</link>
+      <pubDate>Wed, 17 May 2017 15:06:14 CST</pubDate>
+      
+      <guid>http://example.org/post/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>welcome</title>
+      <link>http://example.org/post/welcome/</link>
+      <pubDate>Wed, 17 May 2017 14:54:11 CST</pubDate>
+      
+      <guid>http://example.org/post/welcome/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;我的第一篇博客&#34;&gt;我的第一篇博客&lt;/h1&gt;
+
+&lt;p&gt;经过了反复的鼓捣，终于鼓捣出了我自己的博客，计划是放在github上，作为我的心灵的
+洁净之地。&lt;/p&gt;
+
+&lt;p&gt;很开心的事情呀&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;规划&#34;&gt;规划&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;一周一篇&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;学会和熟练使用markdown语法。看完维基百科，我感觉我已经可以算是学的差不多
+了。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;内容的话主要分为技术博客，未来规划，内心遐思这三个方面吧。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;还是需要把命令行的代码转换成为python的脚本吧？需要吗？看看麻不麻烦了&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;熟悉使用hogo，做博客还是有很多东西需要设置的。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;为什么会没有体现呢？看一下github的markdown是怎么写的，总是觉得哪里有问题&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;不会以后把博客当作工作笔记吧。不至于呀！！！原来是需要空格才会有。。日了狗
+了！！！&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;随随便便先写点东西，看看吧。感觉还是挺可以的。markdown使用pycharm来编辑是
+一件不错的事情。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;这个首页也是日了狗了。看来需要配图了呀&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

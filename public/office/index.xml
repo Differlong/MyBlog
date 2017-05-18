@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Offices on 亚特兰蒂斯 </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://example.org/office/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Wed, 17 May 2017 15:06:37 CST</updated>
+    
+    <item>
+      <title>second</title>
+      <link>http://example.org/office/second/</link>
+      <pubDate>Wed, 17 May 2017 15:06:37 CST</pubDate>
+      
+      <guid>http://example.org/office/second/</guid>
+      <description>&lt;p&gt;hahahahahha&lt;/p&gt;
+
+&lt;p&gt;ddkjhjkdfhlda&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
